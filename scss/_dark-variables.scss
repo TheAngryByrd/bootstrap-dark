@@ -113,7 +113,8 @@ $modal-footer-border-color:     $modal-header-border-color;
 $close-color:                   $white;
 $close-text-shadow:             0 1px 0 $black;
 
-// // Tables
+// Tables
+$table-color:                 $body-color;
 // $table-bg:                    transparent !default;
 // $table-accent-bg:             rgba($black, .05) !default;
 // $table-hover-bg:              rgba($black, .075) !default;
@@ -137,3 +138,9 @@ $table-dark-color:            $gray-300;
 // Jumbotron
 $jumbotron-padding:                 2rem !default;
 $jumbotron-bg:                      $gray-800 !default;
+
+
+// Dropdowns
+$dropdown-bg:                       $gray-800;
+$dropdown-color:                    $body-color; 
+$dropdown-item-color:               $body-color;
